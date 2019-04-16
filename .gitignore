@@ -1,2 +1,5 @@
 .DS_store
 temp1
+*.swp~
+test/*.txt
+!test/master.txt 
