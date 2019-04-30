@@ -1,0 +1,41 @@
+Dear HR.,
+
+Reference your job 'DevOPs Engineer', please find attached resume for your kind considerations. I fulfil all the requirements/responsibilities like.,
+
+Extensive experience with Linux, particularly RedHat/CentOS, SSH, DNS, EMAIL, etc.
+• Experience with setting up monitoring tools, e.g. Nagios, GrayLog, Logstash, Monit, PagerDuty.
+• Understand the metric requirements of system/application health
+• Experience with setup, configure, and manage RDBMS, NoSQL, Elasticsearch, Kibana, and big data severs
+• Experience writing and maintaining tools and scripts to support automation and operations, e.g. Unix Shell scripts, Ansible, etc.
+• Solid knowledge of Unix systems with ability to troubleshoot issues in complex, distributed, multi-tier architectures.
+• Knowledge and experience with HAProxy, Tomcat, Node.js, etc.
+• Worked in SaaS/PaaS companies as DevOps engineer
+• Passionate about operational excellence and documentation
+• Good written and verbal communication skills Preferred Qualifications
+• Experience with troubleshooting and performance tuning in JVM, MySQL, MongoDB, Cassandra, Elasticsearch
+• Experience with setting up a whole network infrastructure, configuring and troubleshooting networking issues
+• Experience in secure, scalable and highly available online services
+• Experience in data visualization
+• Experience collaborating with multiple teams
+• Experience in Big Data applications
+• Experience and passion to work in a fast paced Agile environment, delivering features in small time durations
+
+
+Responsibilities
+• Assist in designing, transitioning and deploying of applications to various clouds
+• Develop tools and framework to improve operational efficiency and anomaly detection
+• Design and operate the environment to test application resiliency to infrastructure instabilities
+• Responsible for application configurations in different cloud environments
+• Proactively monitor, identify, and escalate issues or root causes of systemic issues
+• Participate in the rotating shifts for 24x7 support. Shifts will rotate on weekly basis with hardship allowance.
+• Demonstrate willingness to take feedback and adapt solutions where appropriate.
+• Interact with other team members to incorporate their innovations and vice versa
+• Participate in design and code reviews
+• Be the consummate team player with a demonstrable ability to learn quickly. Amazing ability to get stuff done.
+• Follows the industry trends in the online world
+
+
+
+I am looking forward for an interview call. 
+
+Thanks
